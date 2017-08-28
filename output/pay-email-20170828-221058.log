@@ -1,0 +1,7 @@
+Log file created at: 2017/08/28 22:10:58
+** ================= START LYP LOG ================ **
+I0828 22:10:58  pay-email.go:20] ====== start pay-email =====
+I0828 22:10:58  pay-email.go:21] Read Succ From 
+I0828 22:10:58  pay-email.go:22] This is a Info log
+W0828 22:10:58  pay-email.go:23] This is a Warning log
+E0828 22:10:58  pay-email.go:24] This is a Error log

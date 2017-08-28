@@ -1,0 +1,8 @@
+Log file created at: 2017/08/28 22:31:16
+** ================= START LYP LOG ================ **
+I0828 22:31:16  pay-email.go:22] ====== start pay-email =====
+I0828 22:31:16  read-file.go:38] File Slice is ok,Start Change to mapEmail
+I0828 22:31:16  send-mail.go:39] SendMail Msg To 994828337@qq.com Error:554 DT:SPM 163 smtp7,C8CowABntwNqKaRZhaFUFg--.9849S3 1503930731,please see http://mail.163.com/help/help_spam_16.htm?ip=59.63.248.231&hostid=smtp7&time=1503930731
+I0828 22:31:17  send-mail.go:41] == SendMail Msg To lypwonderful@163.com Succ ==
+I0828 22:31:18  send-mail.go:39] SendMail Msg To lypwonderful@gmail.com Error:554 DT:SPM 163 smtp7,C8CowAB3nSJrKaRZaqJUFg--.3870S3 1503930732,please see http://mail.163.com/help/help_spam_16.htm?ip=59.63.248.231&hostid=smtp7&time=1503930732
+I0828 22:31:19  send-mail.go:39] SendMail Msg To 799485915@qq.com Error:554 DT:SPM 163 smtp7,C8CowAAH7NlsKaRZ1aJUFg--.45908S3 1503930733,please see http://mail.163.com/help/help_spam_16.htm?ip=59.63.248.231&hostid=smtp7&time=1503930733
